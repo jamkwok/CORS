@@ -1,4 +1,5 @@
 ## CORS in Express
+Apply to the resource the web browser is requesting cross domain access to such as a foreign API.
 
 ### Via Middleware
 
